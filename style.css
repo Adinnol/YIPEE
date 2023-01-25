@@ -1,0 +1,23 @@
+ h1 {
+ 	color: #000;
+ 	text-align: center;
+ 	text-shadow: 0 0 10px white;
+ }
+body {
+	background: royalblue;
+}
+
+h2 {
+	color: #eaff00;
+	border: blanchedalmond;
+}
+
+ol {
+	color: #eaff00;
+	border: black 10px solid;
+}
+ul {
+	color: black;
+	background: blanchedalmond;
+	border: bisque 10px solid;
+}
